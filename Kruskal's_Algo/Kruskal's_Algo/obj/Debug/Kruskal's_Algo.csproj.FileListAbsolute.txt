@@ -1,0 +1,8 @@
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\bin\Debug\Kruskal's_Algo.exe.config
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\bin\Debug\Kruskal's_Algo.exe
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\bin\Debug\Kruskal's_Algo.pdb
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\obj\Debug\Kruskal's_Algo.csproj.AssemblyReference.cache
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\obj\Debug\Kruskal's_Algo.csproj.SuggestedBindingRedirects.cache
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\obj\Debug\Kruskal's_Algo.csproj.CoreCompileInputs.cache
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\obj\Debug\Kruskal's_Algo.exe
+D:\3rd_year\first_term\Algorithm\Kruskal's_Algo\Kruskal's_Algo\obj\Debug\Kruskal's_Algo.pdb
